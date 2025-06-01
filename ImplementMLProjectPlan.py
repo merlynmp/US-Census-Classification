@@ -1,19 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # Lab 8: Implement Your Machine Learning Project Plan
-
-# In this lab assignment, you will implement the machine learning project plan you created in the written assignment. You will:
-# 
-# 1. Load your data set and save it to a Pandas DataFrame.
-# 2. Perform exploratory data analysis on your data to determine which feature engineering and data preparation techniques you will use.
-# 3. Prepare your data for your model and create features and a label.
-# 4. Fit your model to the training data and evaluate your model.
-# 5. Improve your model by performing model selection and/or feature selection techniques to find best model for your problem.
 
 # ### Import Packages
-# 
-# Before you get started, import a few packages.
 
 # In[1]:
 
